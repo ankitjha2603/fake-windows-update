@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fake-windows-update/static/css/main.8cc91fe2.css",
+    "main.js": "/fake-windows-update/static/js/main.4762dc1a.js",
+    "index.html": "/fake-windows-update/index.html",
+    "main.8cc91fe2.css.map": "/fake-windows-update/static/css/main.8cc91fe2.css.map",
+    "main.4762dc1a.js.map": "/fake-windows-update/static/js/main.4762dc1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cc91fe2.css",
+    "static/js/main.4762dc1a.js"
+  ]
+}
